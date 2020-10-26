@@ -1,0 +1,16 @@
+﻿body {
+    color:brown;
+}
+
+.MyTestBody {
+    color:burlywood;
+}
+
+h1 {
+    color:darkblue;
+}
+
+.MyTestParagraph {
+    color: aliceblue;
+    background: darkgreen;
+}
