@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_W04_ModelFirst", "FIT5032_W04_ModelFirst\FIT5032_W04_ModelFirst.csproj", "{BABF4085-52B3-4ECA-9912-53F7391BE9BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BABF4085-52B3-4ECA-9912-53F7391BE9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABF4085-52B3-4ECA-9912-53F7391BE9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABF4085-52B3-4ECA-9912-53F7391BE9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABF4085-52B3-4ECA-9912-53F7391BE9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F51E2DC-ADAF-41A7-9BE5-662C8459062C}
+	EndGlobalSection
+EndGlobal
