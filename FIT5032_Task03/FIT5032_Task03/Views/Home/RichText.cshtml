@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "RichText";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.ckeditor.com/ckeditor5/23.0.0/classic/ckeditor.js"></script>
+</head>
+<body>
+    <h1>Rich Text Editor</h1>
+    <div id="editor">
+        <p>This is some sample content.</p>
+        <p>This is some sample content.</p>
+        <p>This is some sample content.</p>
+        <p>This is some sample content.</p>
+        <p>This is some sample content.</p>
+    </div>
+    <script>
+        ClassicEditor
+            .create(document.querySelector('#editor'))
+            .catch(error => {
+                console.error(error);
+            });
+    </script>
+</body>
